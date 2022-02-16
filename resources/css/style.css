@@ -1,0 +1,99 @@
+body {
+    background-color: white;
+}
+
+body header {
+    width: 75%;
+    text-align: left;
+    margin: 10px auto
+}
+
+/*colors*/
+#colors {
+    border: 1px solid black;
+    width: 75%;
+    text-align: center;
+    margin: 10px auto;
+    padding: 50px 0px;
+}
+
+
+#colors .salmon {
+    display: inline-block;
+    width: 100px;
+    margin: 10px;
+    padding: 10px;
+    background-color: #FA8072;
+    color: white;
+    text-align: center;
+    display: inline-block;
+}
+
+#colors .sagegreen {
+    display: inline-block;
+    width: 100px;
+    margin: 10px;
+    padding: 10px;
+    background-color: #5f7d54;
+    color: white;
+    text-align: center;
+}
+
+#colors .orange {
+    display: inline-block;
+    width: 100px;
+    margin: 10px;
+    padding: 10px;
+    background-color: #F58500;
+    color: white;
+    text-align: center;
+}
+
+#colors .darkblue {
+    display: inline-block;
+    width: 100px;
+    margin: 10px;
+    padding: 10px;
+    background-color: #223852;
+    color: white;
+    text-align: center;
+}
+
+
+/*fonts*/
+#fonts {
+    border: 1px solid black;
+    width: 75%;
+    text-align: center;
+    margin: 10px auto;
+}
+
+#fonts .bold {
+    font-weight: bold;
+}
+
+#fonts .italic {
+    font-style: italic;
+}
+
+#fonts .oswald {
+    font-family: Oswald;
+}
+
+#fonts .lato {
+    font-family: Lato;
+}
+
+#fonts .Oxygen {
+    font-family: 'Oxygen';
+}
+
+
+
+
+/*text*/
+#text {
+    border: 1px solid black;
+    width: 75%;
+    margin: 10px auto;
+}
